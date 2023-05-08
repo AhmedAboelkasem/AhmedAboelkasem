@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Gamal Aboelkasem</h1>
 <h3 align="center">a lifelong learner with the ambition to become a skilled data analyst</h3>
-<h4 align="center"> 📚 B.S. Computer Science @ Assuit University</h4>
-<h4 align="center"> I’m currently Business Intelligence trainee @ ITI</h4>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
